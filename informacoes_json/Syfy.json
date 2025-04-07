@@ -1,0 +1,44 @@
+{
+  "País": "Estados Unidos",
+  "Fundação": "24 de setembro de 1992 (32 anos)",
+  "Pertence a": "NBCUniversal",
+  "Proprietário": "Comcast",
+  "Slogan": "It's a Fan Thing",
+  "Formato de vídeo": [
+    "480i ( SDTV )",
+    "1080i ( HDTV )"
+  ],
+  "Nome(s) anterior(es)": [
+    "Sci-Fi Channel (1992-1999)",
+    "Sci Fi (1999-2009)"
+  ],
+  "Página oficial": "https://www.syfy.com",
+  "DirecTV": "Canal 244 (HD/SD)",
+  "Dish Network": [
+    "Canal 122 (HD/SD)",
+    "Canal 9432 (HD)"
+  ],
+  "Xfinity": [
+    "Canal 28 (SD)",
+    "Canal 829 (HD)"
+  ],
+  "U-verse TV": [
+    "Canal 151 (SD)",
+    "Canal 1151 (HD)"
+  ],
+  "Verizon FiOS": [
+    "Canal 180 (SD)",
+    "Canal 680 (HD)"
+  ],
+  "Comcast Cable": [
+    "Canal 52 (SD)",
+    "Canal 1411 (HD)"
+  ],
+  "Website oficial": "Simulcast",
+  "DirecTV Stream": "IPTV",
+  "Sling TV": "IPTV",
+  "Apple TV": "tvOS",
+  "YouTube TV": "IPTV",
+  "Fubo TV": "IPTV",
+  "Hulu Live TV": "IPTV"
+}

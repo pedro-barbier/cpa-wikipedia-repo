@@ -1,0 +1,13 @@
+{
+  "Tipo": "Profissão",
+  "Setor de atividade": "Educação",
+  "Educação requirida": [
+    "Pedagogia",
+    "Licenciatura"
+  ],
+  "Campos de trabalho": [
+    "Escola",
+    "Faculdade"
+  ],
+  "Empregos relacionados": "Tutor"
+}

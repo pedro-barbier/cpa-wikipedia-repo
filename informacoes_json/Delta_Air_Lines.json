@@ -1,0 +1,31 @@
+{
+  "IATA": "DL",
+  "ICAO": "DAL",
+  "Indicativo de chamada": "DELTA",
+  "Fundada em": "30 de maio de 1924 (como Huff Daland Duster )",
+  "Principais centros de operações": [
+    "Aeroporto Internacional de Atlanta",
+    "Aeroporto Internacional de Detroit",
+    "Aeroporto Internacional John F. Kennedy",
+    "Aeroporto Internacional de Seattle-Tacoma",
+    "Aeroporto Internacional de Minneapolis-Saint Paul",
+    "Aeroporto Internacional de Salt Lake City"
+  ],
+  "Outros centros de operações": [
+    "Aeroporto Internacional de Cincinnati",
+    "Aeroporto Internacional de Los Angeles",
+    "Aeroporto de LaGuardia",
+    "Aeroporto Internacional de Boston"
+  ],
+  "Programa de milhagem": "SkyMiles",
+  "Aliança comercial": "SkyTeam",
+  "Frota": "1313",
+  "Destinos": "375",
+  "Lounge": "Sky Club",
+  "Sede": "Atlanta , Condado de Fulton , Geórgia , Estados Unidos",
+  "Pessoas importantes": [
+    "CEO: Richard Anderson",
+    "CFO: Edward Bastian"
+  ],
+  "Sítio oficial": "www.delta.com"
+}

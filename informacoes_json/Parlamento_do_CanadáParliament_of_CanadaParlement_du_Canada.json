@@ -1,0 +1,36 @@
+{
+  "Tipo": "Bicameral",
+  "Casas": [
+    "Senado (Câmara alta)",
+    "Câmara dos Comuns (Câmara baixa)"
+  ],
+  "Monarca": "Charles III",
+  "Governador- geral": "Mary Simon",
+  "Presidente do Senado": "Raymonde Gagné",
+  "Presidente da Câmara": "Greg Fergus",
+  "Assentos": [
+    "443",
+    "105 (Câmara alta)",
+    "338 (Câmara baixa)"
+  ],
+  "Grupos políticos da Câmara alta": [
+    "Independentes (40) Conservadores (18) Progressista (14) Canadenses (13) Não afiliado (9) Vacante (11)",
+    "Independentes (40)",
+    "Conservadores (18)",
+    "Progressista (14)",
+    "Canadenses (13)",
+    "Não afiliado (9)",
+    "Vacante (11)"
+  ],
+  "Grupos políticos da Câmara baixa": [
+    "Liberal (156) Conservador (118) Quebequense (32) Democrata (25) Verde (2) Independente (3)",
+    "Liberal (156)",
+    "Conservador (118)",
+    "Quebequense (32)",
+    "Democrata (25)",
+    "Verde (2)",
+    "Independente (3)"
+  ],
+  "Última eleição da Câmara alta": "Nomeação",
+  "Última eleição da Câmara baixa": "20 de setembro de 2021"
+}

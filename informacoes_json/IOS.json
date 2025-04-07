@@ -1,0 +1,20 @@
+{
+  "Produção": "Apple",
+  "Linguagem": "C, C++, Objective-C, Swift, Java",
+  "Modelo": "Código fechado",
+  "Lançamento": "29 de junho de 2007 ( 2007-06-29 )",
+  "Versão estável": "iOS 18.3.2 [ nota 1 ] v • e",
+  "Versão em teste": "17 beta 2 [ 1 ]",
+  "Mercado-alvo": "Smartphone , tablet , reprodutor de mídia portátil",
+  "Método de atualização": "OTA (a partir do iOS 5 ) , Finder (MacOS Catalina ou superior) ou iTunes (Windows ou MacOS (anterior ao MacOS Catalina))",
+  "Arquitetura(s)": [
+    "ARMv 6 ( iPhone OS 1 - iOS 4 .2.1)",
+    "ARMv7-A ( iPhone OS 3 - iOS 10 .3.4)",
+    "ARMv8-A ( iOS 7 ou superior )"
+  ],
+  "Gestão de pacotes": "App Store , Cydia (com Jailbreak )",
+  "Núcleo": "Kernel XNU , Darwin",
+  "Interface": "Cocoa Touch ( multi-touch , GUI )",
+  "Licença": "Proprietário EULA , exceto para componentes open source",
+  "Página oficial": "www .apple .com /ios"
+}

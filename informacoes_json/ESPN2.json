@@ -1,0 +1,31 @@
+{
+  "País": "Estados Unidos",
+  "Fundação": "1 de outubro de 1993 (31 anos)",
+  "Pertence a": "ESPN Inc.",
+  "Proprietário": [
+    "Disney General Entertainment Content (80%)",
+    "Hearst Corporation (20%)"
+  ],
+  "Sede": "Bristol (Connecticut)",
+  "Formato de vídeo": [
+    "480i ( SDTV )",
+    "720p ( HDTV )"
+  ],
+  "DirecTV": [
+    "209 (SD/HD)",
+    "209-2 (canal alternativo)"
+  ],
+  "Dish Network": [
+    "143 (SD/HD)",
+    "146 (canal alternativo)"
+  ],
+  "Disponível na maioria dos sistemas de cabo": "Veja a listagem local",
+  "Verizon Fios": [
+    "74",
+    "574 (HD)"
+  ],
+  "AT&T U-verse": [
+    "606",
+    "1606 (HD)"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Tipo": "Bicameral",
+  "Casas": [
+    "Seanad Éireann (Câmara alta)",
+    "Dáil Éireann (Câmara baixa)"
+  ],
+  "Presidente": "Michael Higgins",
+  "Presidente do Senado": "Denis O'Donovan",
+  "Chefe do Conselho": "Verona Murphy",
+  "Assentos": [
+    "234",
+    "60 (Câmara alta)",
+    "174 (Câmara baixa)"
+  ],
+  "Grupos políticos da Câmara alta": [
+    "Fine Gael (19)",
+    "Fianna Fáil (14)",
+    "Sinn Féin (7)",
+    "Partido Trabalhista (5)",
+    "Partido Verde (1)",
+    "Independente (14)"
+  ],
+  "Grupos políticos da Câmara baixa": [
+    "Fine Gael (50)",
+    "Independente (8)",
+    "Fianna Fáil (43)",
+    "Sinn Féin (23)",
+    "Partido Trabalhista (7)",
+    "Antiausteridade (6)",
+    "I4C (4)",
+    "Partido Verde (2)",
+    "Social-Democratas (2)",
+    "MTD (1)",
+    "Independente (11)",
+    "Chefe do Conselho (1)"
+  ],
+  "Última eleição da Câmara alta": "31 de Março de 2020",
+  "Última eleição da Câmara baixa": "29 de Novembro de 2024"
+}

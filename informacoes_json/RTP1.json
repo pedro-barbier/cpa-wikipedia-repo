@@ -1,0 +1,58 @@
+{
+  "Tipo": "Rede de televisão pública e comercial",
+  "País": "Portugal",
+  "Fundação": "7 de março de 1957 (68 anos)",
+  "Pertence a": "Rádio e Televisão de Portugal",
+  "Proprietário": "Governo Português",
+  "Presidente": "Nicolau Santos",
+  "Cidade de origem": "Lisboa , Distrito de Lisboa",
+  "Slogan": "Sempre Ligados. Por todos.",
+  "Formato de vídeo": [
+    "16:9",
+    "576i ( SDTV )",
+    "1080i ( HDTV )"
+  ],
+  "Audiência": "11,1% (fevereiro de 2023)",
+  "Canais irmãos": [
+    "RTP2",
+    "RTP3",
+    "RTP Memória",
+    "RTP Açores",
+    "RTP Madeira",
+    "RTP África",
+    "RTP Internacional"
+  ],
+  "Cobertura": "Portugal",
+  "Nome(s) anterior(es)": [
+    "RTP (1957 - 1968)",
+    "I Programa (1968 - 1978)",
+    "RTP Canal 1 (1989 - 1990)",
+    "Canal 1 (1990 - 1996)"
+  ],
+  "Página oficial": "http://rtp.pt/rtp1",
+  "TDT": "1",
+  "MEO": [
+    "Fibra:",
+    "1 (HD)",
+    "501 (SD)",
+    "ADSL:",
+    "1 (SD)",
+    "501 (HD)"
+  ],
+  "NOS": [
+    "Box UMA:",
+    "1 (HD)",
+    "301 (SD)",
+    "Outras boxes/RF Digital:",
+    "1 (SD)",
+    "301 (HD)"
+  ],
+  "NOWO": [
+    "1 (SD)",
+    "201 (HD)"
+  ],
+  "Vodafone": [
+    "1 (SD)",
+    "201 ou 999 (HD)"
+  ]
+}

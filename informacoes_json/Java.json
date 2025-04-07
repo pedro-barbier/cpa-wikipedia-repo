@@ -1,0 +1,69 @@
+{
+  "Paradigma": [
+    "orientada a objetos",
+    "estruturada",
+    "imperativa",
+    "genérica",
+    "funcional",
+    "reflexiva",
+    "concorrente"
+  ],
+  "Surgido em": "23 de maio de 1995 (29 anos)",
+  "Última versão": "23 (17 de setembro de 2024 ; há 6 meses [ 1 ] )",
+  "Criado por": [
+    "James Gosling",
+    "Sun Microsystems"
+  ],
+  "Estilo de tipagem": [
+    "estática",
+    "forte"
+  ],
+  "Principais implementações": [
+    "GCJ",
+    "Javac"
+  ],
+  "Influenciada por": [
+    "Ada 83",
+    "C++",
+    "C# [ 2 ]",
+    "Eiffel",
+    "Generic Java",
+    "Mesa",
+    "Modula-3",
+    "Object Pascal",
+    "Objective-C",
+    "UCSD Pascal",
+    "Smalltalk"
+  ],
+  "Influenciou": [
+    "Ada 2005",
+    "BeanShell",
+    "C# [ 3 ]",
+    "Clojure",
+    "D",
+    "ECMAScript",
+    "Fantom",
+    "Groovy",
+    "J#",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "Scala"
+  ],
+  "Plataforma": [
+    "ART",
+    "Dalvik",
+    "GraalVM",
+    "HotSpot",
+    "OpenJDK",
+    "SuperWaba"
+  ],
+  "Licença": "GNU General Public License / Java Community Process",
+  "Extensão do arquivo": [
+    ".java",
+    ".class",
+    ".jar",
+    ".war"
+  ],
+  "Página oficial": "www .oracle .com /java /"
+}

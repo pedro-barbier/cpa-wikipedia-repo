@@ -1,0 +1,20 @@
+{
+  "Desenvolvedor": "Canonical Ltd / Fundação Ubuntu",
+  "Arquiteturas": "arm ppc ppc64 s390x x86 x86-64",
+  "Modelo do desenvolvimento": "Software Livre",
+  "Lançado em": "20 de outubro de 2004 (20 anos)",
+  "Versão estável": "Ubuntu 24.10 (Oracular Oriole) [ 1 ] / 10 de outubro de 2024 ; há 5 meses",
+  "Versão em teste": "Ubuntu 24.10 Beta (Oracular Oriole) [ 2 ] [ 5 ] / 20 de setembro de 2024 ; há 6 meses",
+  "Língua natural": "Multilíngue",
+  "Mercado-alvo": "Usuários comuns, Usuários avançados, Usuários de Mac ou Windows , empresas , Servidores , desktops , notebooks , Internet das coisas , Computação em nuvem",
+  "Família": "Debian",
+  "Núcleo": "Linux",
+  "Método de atualização": "dpkg / Synaptic",
+  "Gerenciamento de pacotes": "APT",
+  "Interface": "Unity / GNOME",
+  "Licença": "GNU e GPL como principais e outras licenças de softwares livres e/ou de softwares prioritários.",
+  "Estado do desenvolvimento": "Corrente",
+  "Website": "ubuntu .com",
+  "Posição no Distrowatch": "7ª (em inglês , em castelhano , em francês , em alemão , em tcheco/checo , em japonês e em chinês ).",
+  "Origem comum": "Ilha de Man"
+}

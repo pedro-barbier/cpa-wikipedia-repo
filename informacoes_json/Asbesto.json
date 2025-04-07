@@ -1,0 +1,33 @@
+{
+  "Categoria": "Silicato mineral",
+  "Classificação Strunz": "09.ED.15",
+  "Cor": [
+    "Verde",
+    "vermelho",
+    "amarelo",
+    "branco",
+    "cinza",
+    "azul"
+  ],
+  "Sistema cristalino": [
+    "Ortorrômbico",
+    "Monoclínico"
+  ],
+  "Hábito cristalino": [
+    "Amorfo",
+    "granular",
+    "maciço"
+  ],
+  "Índice refrativo": "1.53–1.72",
+  "Birrefringência": "0.008",
+  "Propriedades ópticas": "Biaxial",
+  "dispersão": "Relativamente fraco",
+  "Fluorescência ultravioleta": "Não-fluorescente",
+  "Peso específico": "277.11 g",
+  "Dureza": "2.5–6.0",
+  "Ponto de fusão": "400–1 040 °C",
+  "Clivagem": "Superfície prismática",
+  "Fratura": "Fibroso",
+  "Brilho": "Sedoso",
+  "Risca": "Branco"
+}

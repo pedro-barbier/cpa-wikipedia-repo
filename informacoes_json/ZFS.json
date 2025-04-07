@@ -1,0 +1,20 @@
+{
+  "Desenvolvedor": "Oracle Corporation",
+  "Nome completo": "ZFS",
+  "Lançamento": "Novembro de 2005 ( OpenSolaris )",
+  "Conteúdos de diretório": "Tabela de Hash Extensível",
+  "Tamanho Máximo de arquivo": "2 64 bytes (16 EiB )",
+  "Número máximo de arquivos": [
+    "Por diretório: 2 48",
+    "Por sistema de arquivos: ilimitado"
+  ],
+  "Tamanho máximo do nome de arquivo": "255 caracteres ASCII (menor em codificações de caracteres multibyte como o Unicode)",
+  "Tamanho máximo do volume": "256 quatrilhões de zebibytes (2 128 bytes)",
+  "Bifurcações": "Sim (chamado Atributos estendidos)",
+  "Atributos": "POSIX",
+  "Permissões de sistema de arquivos": "POSIX, NFSv4 ACLs",
+  "Compressão transparente": "Sim",
+  "Criptografia transparente": "Sim",
+  "Armazenamento de caso único": "Não",
+  "Sistemas operativos suportados": "Solaris , OpenSolaris , distribuições illumos, OpenIndiana , FreeBSD , macOS Server 10.5 (suporte somente leitura), NetBSD , Linux através de módulo do kernel externo ou ZFS-FUSE, OSv"
+}

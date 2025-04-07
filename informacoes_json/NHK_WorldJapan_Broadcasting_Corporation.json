@@ -1,0 +1,50 @@
+{
+  "País": "Japão",
+  "Fundação": "1 de abril de 1998 (26 anos)",
+  "Pertence a": "NHK",
+  "Slogan": "Your eye on Asia.",
+  "Formato de vídeo": [
+    "480i ( SDTV )",
+    "1080i ( HDTV )"
+  ],
+  "Cobertura": "Internacional",
+  "Página oficial": [
+    "nhk.or.jp/nhkworld/pt",
+    "nhkworldpremium.com/en"
+  ],
+  "Digital": [
+    "Canal 30.2 ( Distrito de Colúmbia e Atlanta )",
+    "Canal 28.3 ( Los Angeles )",
+    "Canal 23.2 ( Filadélfia )",
+    "Canal 58.2 ( Nova Iorque )",
+    "Canal 24.4 ( Orlando )",
+    "Canal 56.2 ( Chicago )",
+    "Canal 11.2 ( Honolulu )",
+    "Canal 28.2 ( Seattle e Tacoma )",
+    "Canal 50.2 ( Nova Iorque )",
+    "Canal 12.4 ( Denver )",
+    "Canal 28.3 ( Garden Grove )",
+    "Canal 22.3 ( São Francisco )"
+  ],
+  "Sky": "Canal 183",
+  "Claro TV": "Canal 207",
+  "Intelsat 19": "4146 MHz @ 19910 Ksps, Horizontal ( HDTV ) [ 1 ]",
+  "Intelsat 20": "4128 MHz @ 14890 Ksps, Horizontal ( HDTV ) [ 1 ]",
+  "Intelsat 21": "4166 MHz @ 19910 Ksps, Horizontal ( HDTV ) [ 1 ]",
+  "Claro TV+": "Canal 207",
+  "TCM": "Canal 242 (HD)",
+  "Life TV": [
+    "Canal 800 (HD)",
+    "Canal 801 (HD)"
+  ],
+  "TV Alphaville": "Canal 208",
+  "Alares": [
+    "Canal 118 ( Fortaleza )",
+    "Canal 703 (HD) ( João Pessoa e Natal )"
+  ],
+  "Vivo TV": "Canal 700 (HD)",
+  "MEO": "Canal 219",
+  "NOS": "Canal 246",
+  "Vodafone": "Canal 192",
+  "Website oficial": "Simulcast"
+}

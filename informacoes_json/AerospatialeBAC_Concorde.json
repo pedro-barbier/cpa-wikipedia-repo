@@ -1,0 +1,35 @@
+{
+  "Tipo / Missão": "Avião comercial turbojato supersônico quadrimotor",
+  "País de origem": "Reino Unido / França",
+  "Fabricante": [
+    "BAC",
+    "Aerospatiale"
+  ],
+  "Período de produção": "1965 - 1978",
+  "Quantidade produzida": "20",
+  "Custo unitário": [
+    "£ 23 milhões (1977),",
+    "equivalente a £128 milhões em 2015."
+  ],
+  "Primeiro voo em": "2 de março de 1969",
+  "Introduzido em": "21  de janeiro de 1976",
+  "Aposentado em": "23 de novembro de 2003",
+  "Tripulação": "3 - piloto, copiloto e engenheiro de voo",
+  "Passageiros": "92–120",
+  "Comprimento": "61,66 m (202 ft )",
+  "Envergadura": "25,6 m (84,0 ft )",
+  "Altura": "12,2 m (40,0 ft )",
+  "Área das asas": "358,25 m² (3 860 ft² )",
+  "Alongamento": "1.8",
+  "Peso vazio": "78 700 kg (174 000 lb )",
+  "Peso carregado": "111 130 kg (245 000 lb )",
+  "Motor(es)": "4 x turbojatos de pós combustão Rolls-Royce/Snecma Olympus 593 Mk 610",
+  "Força de empuxo (por motor)": "17 233 kgf (169 000 N )",
+  "Velocidade máxima": "2 179 km/h (1 180 kn )",
+  "Velocidade de cruzeiro": "2 158 km/h (1 170 kn )",
+  "Velocidade máx. em Mach": "2,04 Ma",
+  "Alcance ( MTOW )": "7 222,8 km (4 490 mi )",
+  "Teto máximo": "18 300 m (60 000 ft )",
+  "Razão de subida": "25,41 m / s",
+  "Tipo(s) de radar(es)": "EKCO E390/564 radar meteorológico"
+}
